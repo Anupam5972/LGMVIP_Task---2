@@ -40,7 +40,7 @@ class App extends React.Component {
 
       <div className="wholeContainer">
         <div className="buttonContainer">
-          <p className='title'>LGMVIP</p>
+          <p className='title'>LGMVIP_WL_WEB_JUNE_2022</p>
           <button
             onClick={this.loadData.bind(
               this,
